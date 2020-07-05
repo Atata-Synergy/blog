@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css?family=Bebas+Neue|Fredoka+One&display=swap");
+/*colors */
+:root {
+  --colorBlack: #1c1c1c;
+  --colorLight: #f5f5f5;
+  --colorWhite: #ffffff;
+  --colorGreen: #0e8502;
+  --colorRed: #ff0000;
+  --colorYellow: #ff9900;
+  --colorAsh: #c9c9c9;
+  --colorDark: #747474;
+}
+a{
+  color: var(--colorRed);
+}
+.r-post{
+  margin: 12px 0;
+  background-color: var(--colorLight);
+}

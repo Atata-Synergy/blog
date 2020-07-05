@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
+    "axios": "^0.19.2",
+    "html-react-parser": "^0.13.0",
+    "markdown-to-jsx": "^6.11.4",
+    "react-router-dom": "^5.2.0",
+    "read-more-react": "^1.0.10",
+    "styled-components": "^5.1.1"
+  }
+}

@@ -1,0 +1,1 @@
+export const BaseUrl = 'https://api.atata57.com/api'
